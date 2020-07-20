@@ -1,3 +1,4 @@
 <div align="center">
-	<h1>🍑</h1>
+	<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" width="40" />
+	<p>Loading</p>
 </div>
