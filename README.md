@@ -1,4 +1,4 @@
 <div align="center">
-	<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="40" />
-	<p>Loading activity...</p>
+	<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="40" />
+	<p>One moment please...</p>
 </div>
